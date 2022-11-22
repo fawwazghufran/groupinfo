@@ -1,7 +1,7 @@
-id,student_name,gender,mactric_no
-1,Fawwaz Ghani,m,18001184
-2,Hasyadina,f,18002529
-3,Daniel Jeffery,m,19001682
-4,Osama Ali,m,17010448
-5,Maralgul Korpeyeva,f,19000145
-6,Albina Beshimova,f,19000143
+id,student_name,gender,matric_no
+1184,Fawwaz Ghani,1,18001184
+2529,Hasyadina,2,18002529
+1682,Daniel Jeffery,1,19001682
+448,Osama Ali,1,17010448
+145,Maralgul Korpeyeva,2,19000145
+143,Albina Beshimova,2,19000143
